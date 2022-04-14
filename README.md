@@ -12,6 +12,10 @@
 #### 複製檔案
     copy browser.cmd "%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup"
 
+### rd
+#### 刪除目錄
+    rd projects
+
 ### del
 #### 刪除檔案
     del browser.cmd
